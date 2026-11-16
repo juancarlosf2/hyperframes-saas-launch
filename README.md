@@ -4,6 +4,17 @@ A reusable agent skill for making editable SaaS launch videos, app trailers, and
 
 ## Install
 
+### Ask your AI agent to install it
+
+Copy this prompt into your agent chat while it is open in the project where you want to use the skills.
+
+```text
+Install the hyperframes-saas-launch skill from https://github.com/juancarlosf2/hyperframes-saas-launch and the official HyperFrames skills from https://github.com/heygen-com/hyperframes for yourself in this project.
+Use the installation method for your agent and skip any skills that are already available. Run the installation and verify that you can find both skills afterward. If you need me to take a step, tell me exactly what to do.
+```
+
+### Install from the terminal
+
 From your project, install the skill for Codex. Add `-g` to make it available across projects.
 
 ```sh
