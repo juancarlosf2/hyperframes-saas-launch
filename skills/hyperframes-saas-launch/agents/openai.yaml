@@ -1,0 +1,6 @@
+interface:
+  display_name: "HyperFrames SaaS Launch"
+  short_description: "Make editable SaaS launch videos in HyperFrames"
+
+policy:
+  allow_implicit_invocation: true
